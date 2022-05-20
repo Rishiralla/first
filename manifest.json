@@ -1,0 +1,20 @@
+{
+"name"  :"rishi game",
+"short_name":"rishi",
+"start_url":"/index.html",
+"display":"standalone",
+"theme_colour":"#FFDF00",
+"background_color":"#FFDF00",
+"icon":[
+    {
+        "src":"homescreen.png",
+        "sizes":"192×192",
+        "type":"image/png",
+    },
+    {
+      "src"  :"homescreen.png",
+      "sizes":"144×144",
+      "type":"image/png"
+    }
+    ]
+}
